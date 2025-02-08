@@ -29,7 +29,7 @@ export default function CalorieTracker({activities}: CalorieTrackerProps) {
 
             <CaloriesDisplay
                 calories={caloriesConsumed - caloriesBurned}
-                text="Diferencia"
+                text="hola"
             />
         </div>
         
